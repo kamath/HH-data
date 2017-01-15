@@ -1,6 +1,6 @@
 #HH Data
 
-This is an IPython notebook analyzing some data extracted from [Sociograph](http://sociograph.io)
+This is an IPython notebook analyzing some data extracted from [Sociograph](http://sociograph.io). Actual IPython in [HH data.ipynb](HH\ data.ipynb)
 
 ```python
 %matplotlib inline
