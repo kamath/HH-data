@@ -150,11 +150,5 @@ for i in range(5):
     
     Ironically this photo was taken on the Chrome Extension that will define the future.
     
-    \n\nThanks for the Amazon site.
+    Thanks for the Amazon site.
     
-
-
-
-```python
-
-```
